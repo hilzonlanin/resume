@@ -1,3 +1,3 @@
 # hilzonlanin.github.io/resume
 
-## resume
+## resume page
